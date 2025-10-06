@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.album-card{
+    border: 3px solid black;
+    border-radius: 15px;
+    height: 100%;
+
+    img{
+        border-radius: 8px;
+    }
+
+
+}
