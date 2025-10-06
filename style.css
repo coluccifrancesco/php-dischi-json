@@ -1,17 +1,61 @@
+:root {
+    --text-color: #dedbfe;
+    --bg-color: #07031d;
+    --prime-color: #856ffc;
+    --second-color: #a70314;
+    --accent-color: #fb942b;
+    --usually-black: black;
+    --usually-white: white;
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+.body-bg {
+    background: #8770F9;
+    background: linear-gradient(66deg, rgba(135, 112, 249, 1) 0%, rgba(251, 148, 43, 1) 100%);
+}
+
 .album-card{
-    border: 3px solid black;
     border-radius: 15px;
     height: 100%;
+    background: rgba(255, 255, 255, 0.324);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(8.9px);
+
+    transition: 0.2s;
 
     img{
         border-radius: 8px;
     }
 
+    h2 {
+        font-family: "Lexend Deca", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+    }
 
+    h3 {
+        color: rgba(0, 0, 0, 0.507);
+    }
+
+    h3,
+    h5,
+    p {
+        font-family: "Roboto", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    &:hover {
+        cursor: pointer;
+        rotate: 2deg;
+        box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.267);
+    }
 }
