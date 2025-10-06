@@ -1,0 +1,44 @@
+[
+  {
+    "titolo": "Random Access Memories",
+    "artista": "Daft Punk",
+    "urlCover": "https://m.media-amazon.com/images/I/61Ia07wdZQL._UF1000,1000_QL80_.jpg",
+    "annoPubblicazione": 2013,
+    "genere": "Electronic/Disco"
+  },
+  {
+    "titolo": "Tango in the Night (Deluxe)",
+    "artista": "Fleetwood Mac",
+    "urlCover": "https://m.media-amazon.com/images/I/51l8QY38dFL._UXNaN_FMjpg_QL85_.jpg",
+    "annoPubblicazione": 1987,
+    "genere": "Pop Rock"
+  },
+  {
+    "titolo": "Dire Straits",
+    "artista": "Dire Straits",
+    "urlCover": "https://i.discogs.com/ijAyqdedqwvat1KX6gTu6P0a8uD1fpTfqDFBRlae2sE/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDg2/ODAtMTcyMTQwMDE4/NS0zMzI3LmpwZWc.jpeg",
+    "annoPubblicazione": 1978,
+    "genere": "Rock"
+  },
+  {
+    "titolo": "Sentio",
+    "artista": "Martin Garrix",
+    "urlCover": "https://i.scdn.co/image/ab67616d0000b273edba220be76f96d51bd38838",
+    "annoPubblicazione": 2022,
+    "genere": "Electronic/Progressive House"
+  },
+  {
+    "titolo": "Midnite",
+    "artista": "Salmo",
+    "urlCover": "https://m.media-amazon.com/images/I/714EbyXH-GS._UF1000,1000_QL80_.jpg",
+    "annoPubblicazione": 2013,
+    "genere": "Rap"
+  },
+  {
+    "titolo": "Funk Wav Bounces Vol. 1",
+    "artista": "Calvin Harris",
+    "urlCover": "https://m.media-amazon.com/images/I/91aaSfAibgL.jpg",
+    "annoPubblicazione": 2017,
+    "genere": "Funk/R&B/Electronic"
+  }
+]
