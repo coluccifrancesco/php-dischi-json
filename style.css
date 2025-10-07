@@ -17,6 +17,13 @@
 .body-bg {
     background: #8770F9;
     background: linear-gradient(66deg, rgba(135, 112, 249, 1) 0%, rgba(251, 148, 43, 1) 100%);
+
+    nav{
+        background: rgba(255, 255, 255, 0);
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(15px);
+        -webkit-backdrop-filter: blur(8.9px);
+    }
 }
 
 .album-card{
@@ -42,6 +49,11 @@
 
     h3 {
         color: rgba(0, 0, 0, 0.507);
+    }
+
+    h5,
+    p {
+        color: rgba(0, 0, 0, 0.412);
     }
 
     h3,
