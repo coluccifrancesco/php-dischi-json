@@ -26,6 +26,13 @@
     }
 }
 
+h1 {
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+}
+
 .album-card{
     border-radius: 15px;
     height: 100%;
@@ -69,5 +76,23 @@
         cursor: pointer;
         rotate: 2deg;
         box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.267);
+    }
+}
+
+.offcanvas-btn {
+    background-color: var(--second-color);
+    color: var(--usually-white);
+    border: none;
+    border-radius: 12px;
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.2s;
+
+    &:hover{
+        margin-right: 4px;
     }
 }
